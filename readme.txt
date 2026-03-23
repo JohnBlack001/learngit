@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes
 How to end
 Oh no
+new
